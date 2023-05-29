@@ -1,2 +1,2 @@
 # python
-My Python notes
+My Python, pandas databases and scikit learn notes
